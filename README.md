@@ -1,4 +1,4 @@
-Hi 👋 My name is Yaroslav Merinov  
+Hi 👋 My name is Yaraslau Merynau  
 =================================  
 Beginner iOS developer  
 ----------------------  

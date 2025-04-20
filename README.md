@@ -1,4 +1,4 @@
-Hi 👋 My name is Yaroslav Merinov =================================  Beginner iOS developer ----------------------  Student of the Faculty of Applied Mathematics and Computer Science of the BSU, specialty - Computer Science  * 🌍  I'm based in Minsk, Belarus * ✉️  You can contact me at [yar.merinov@mail.ru](mailto:yar.merinov@mail.ru) * ⚡  English B2-C1
+Hi 👋 My name is Yaroslav Merinov =================================  Beginner iOS developer ----------------------  Student of the Faculty of Applied Mathematics and Computer Science of the BSU, specialty - Computer Science  * 🌍  I'm based in Minsk, Belarus * ✉️  You can contact me at [yar.merinov@mail.ru](mailto:yar.merinov@mail.ru) * ⚡  English B2-C1
 
 ### Skills  
 

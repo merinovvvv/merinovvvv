@@ -8,7 +8,7 @@ Beginner iOS developer
 - 📍 I'm based in Minsk, Belarus  
 - ✉️ You can contact me at [yar.merinov@mail.ru](mailto:yar.merinov@mail.ru)  
 - 🌐 English B2-C1 (Fluent)
-- 📄 [CV](https://www.canva.com/design/DAGlFrQjY3Q/eBimKVS3wBNI7Kr73aoKSw/view?utm_content=DAGlFrQjY3Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h05e6aa22f4)
+- 📄 [CV](https://www.canva.com/design/DAGqFdaqDyE/4PkIUVly1pgxiDPZY3W9Rg/view?utm_content=DAGqFdaqDyE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7261e1b6ea)
 
 ### Skills  
 

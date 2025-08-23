@@ -28,7 +28,6 @@ Beginner iOS developer
 
 <p align="left"> 
 <a href="https://t.me/merinovvvv" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram" /></a> 
-<a href="https://www.github.com/merinovvvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> 
 <a href="https://www.linkedin.com/in/merinovvvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="http://www.instagram.com/merinovvvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a> 
 <a href="https://discord.com/users/mercedes2a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a> 

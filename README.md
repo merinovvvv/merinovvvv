@@ -27,7 +27,7 @@ Beginner iOS developer
 ### Socials  
 
 <p align="left"> 
-<a href="https://t.me/merinovvvv" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram" /></a> 
+<a href="https://t.me/merinovvvv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/merinovvvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="http://www.instagram.com/merinovvvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a> 
 <a href="https://discord.com/users/mercedes2a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a> 
